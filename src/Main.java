@@ -13,6 +13,6 @@ public class Main {
             customer.addRental(rentals[i]);
         }
         
-        System.out.println(customer.htmlStatement());
+        System.out.println(customer.statement());
     }
 }
